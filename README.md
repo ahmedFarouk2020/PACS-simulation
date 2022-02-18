@@ -10,7 +10,7 @@ Simple client-server-database interaction
 * Better control for user
 * timeout
 * Waiting drawings
-
+* Closing connection by client
 
 # Setup
 
